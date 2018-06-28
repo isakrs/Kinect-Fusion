@@ -1,0 +1,57 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Data folder
+data/
+
+# Libraries
+libs/
+
+# Mesh output folder
+mesh/
+
+# idea folder
+.idea/
+
+# cmake-build-debug folder
+cmake-build-debug/
+
+# cmake install file
+cmake_install.cmake
+
+# CMakeFiles 
+CMakeFiles/
+CMakeCache.txt
+
+# exercise_1 file
+exercise_1
